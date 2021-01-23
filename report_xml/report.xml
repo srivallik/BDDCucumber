@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="62.579438">
+<testcase classname="Test Background Feature" name="Validate Tabs in the header" time="33.620675">
+<system-out><![CDATA[Given User is in Home page..................................................passed
+When title of the Home page is Amazon.......................................passed
+Given Click on Mobile Tab...................................................passed
+Then mobile page opened with electronics tab................................passed
+Then electronics page opened................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test Background Feature" name="Validate Computer Tab in the header" time="28.958763">
+<system-out><![CDATA[Given User is in Home page..................................................passed
+When title of the Home page is Amazon.......................................passed
+Given Click on Computers Tab................................................passed
+When validate the header ComputersAndAccessories............................passed
+]]></system-out>
+</testcase>
+</testsuite>
